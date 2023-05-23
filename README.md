@@ -1,4 +1,3 @@
-# Gsoc_Tasks
 # Common Task: Multi-Class Classification for Images of Lenses
 ## Problem Statement
 The aim of this task is to build a model for classifying images of lenses into three classes, strong lensing images with no substructure, subhalo substructure, and vortex substructure. The images have been normalized using min-max normalization, and the task is to use PyTorch or Keras to classify the images.
