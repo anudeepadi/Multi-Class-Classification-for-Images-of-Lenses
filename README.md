@@ -26,7 +26,7 @@ The technologies used for this task are Python and TensorFlow. The code is writt
 In this task, we built a model for classifying images of lenses into three classes using the ImageDataGenerator class in TensorFlow and a Convolutional Neural Network (CNN) architecture. The model was able to achieve a validation AUC score of 0.9644, indicating that it is able to accurately classify the images. The performance of the model can be further improved by using more advanced data augmentation techniques and improving the model architecture.
 
 
-# Specific Task 6: Image Super-resolution
+# Image Super-resolution
 ## Problem Statement
 The task is to develop a deep learning-based super resolution algorithm using the provided dataset of low-resolution (LR) and high-resolution (HR) strong lensing images. The aim is to upscale the LR images to HR images using the provided HR samples as ground truths.
 
